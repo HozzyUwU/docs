@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Кирилл\Desktop\АЛГ\KIRILL_LAB7_ADS\BazaUtilities.h(7,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Кирилл\Desktop\АЛГ\KIRILL_LAB7_ADS\BazaUtilities.h(20,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\АЛГ\KIRILL_LAB7_ADS\BazaUtilities.h(32,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Кирилл\Desktop\АЛГ\KIRILL_LAB7_ADS\MainUtilities.h(13,49): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\Кирилл\Desktop\АЛГ\KIRILL_LAB7_ADS\MainUtilities.h(15): warning C4172: возвращение адреса локальной или временной переменной : temp
+  KIRILL_LAB7_ADS.vcxproj -> C:\Users\Кирилл\Desktop\АЛГ\KIRILL_LAB7_ADS\Debug\KIRILL_LAB7_ADS.exe
