@@ -1,0 +1,14 @@
+﻿  lab6alg.cpp
+C:\Users\Кирилл\Desktop\lab6alg\TNodeMethods.h(38,7): warning C4101: 'data': unreferenced local variable
+C:\Users\Кирилл\Desktop\lab6alg\TNodeMethods.h(36): message : while compiling class template member function 'TNode<int> *TNode<int>::Find(T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Кирилл\Desktop\lab6alg\lab6alg.cpp(29): message : see reference to function template instantiation 'TNode<int> *TNode<int>::Find(T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Кирилл\Desktop\lab6alg\lab6alg.cpp(18): message : see reference to class template instantiation 'TNode<int>' being compiled
+  lab6alg.vcxproj -> C:\Users\Кирилл\Desktop\lab6alg\Debug\lab6alg.exe
